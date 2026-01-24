@@ -14,3 +14,24 @@ class Solution {
        return sum==temp;
     }
 }
+//optimised
+class Solution {
+    static boolean armstrongNumber(int n) {
+        // code here
+        int temp=n;
+        int temp2=n;
+        int pow=0;
+        int sum=0;
+       while(n>0){
+           int dig=n%10;
+           pow++;
+           n/=10;
+       }
+       while(temp>0){
+           int dig=temp%10;
+           sum+=(dig*dig*dig);
+           temp=temp/10;
+       }
+       return sum==temp2;
+    }
+}
