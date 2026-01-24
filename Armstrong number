@@ -1,0 +1,16 @@
+// User function Template for Java
+class Solution {
+    static boolean armstrongNumber(int n) {
+        // code here
+        int temp=n;
+        int pow=0;
+        int sum=0;
+        String len=Integer.toString(n);
+       for(int i=1;i<=len.length();i++){
+           int dig=n%10;
+           sum+=Math.pow(dig,len.length());
+           n=n/10;
+       }
+       return sum==temp;
+    }
+}
