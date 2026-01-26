@@ -6,9 +6,9 @@ class Solution {
         for(int i=1;i*i<=num;i++){
             if(num%i==0){
                 sum+=i;
-            if(num/i!=i){
-                sum+=(num/i);
-            }
+                if(i*i!=num){
+                    sum+=(num/i);
+                }
             }
         }
         return sum-temp ==temp;
