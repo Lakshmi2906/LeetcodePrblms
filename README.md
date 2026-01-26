@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0507-perfect-number) |
 ## Array
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0204-count-primes) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
