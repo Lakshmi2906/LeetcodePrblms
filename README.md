@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0204-count-primes) |
 | [0414-third-maximum-number](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0414-third-maximum-number) |
 ## Enumeration
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0069-sqrtx) |
 ## Sorting
 |  |
