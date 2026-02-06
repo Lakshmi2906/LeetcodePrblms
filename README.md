@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0204-count-primes) |
 | [0414-third-maximum-number](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0414-third-maximum-number) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Enumeration
 |  |
 | ------- |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/3005-count-elements-with-maximum-frequency) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
