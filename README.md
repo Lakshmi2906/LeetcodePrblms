@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0204-count-primes) |
 | [0414-third-maximum-number](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0414-third-maximum-number) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Enumeration
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0001-two-sum) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
