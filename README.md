@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0204-count-primes) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0349-intersection-of-two-arrays) |
@@ -80,4 +82,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
