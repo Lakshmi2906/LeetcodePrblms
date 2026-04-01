@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0507-perfect-number) |
 ## Array
 |  |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0141-linked-list-cycle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
