@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0189-rotate-array) |
@@ -129,8 +130,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
