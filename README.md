@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0169-majority-element) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0349-intersection-of-two-arrays) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
