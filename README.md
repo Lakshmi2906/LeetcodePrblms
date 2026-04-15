@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0059-spiral-matrix-ii) |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0059-spiral-matrix-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
