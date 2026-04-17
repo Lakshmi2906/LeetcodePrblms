@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0204-count-primes) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0414-third-maximum-number) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Enumeration
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0349-intersection-of-two-arrays) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0046-permutations) |
+## Sliding Window
+|  |
+| ------- |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/2799-count-complete-subarrays-in-an-array) |
 <!---LeetCode Topics End-->
