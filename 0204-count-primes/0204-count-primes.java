@@ -1,7 +1,6 @@
 class Solution {
     public int countPrimes(int n) {
         int[] prime=new int[n+1];
-        int cnt=0;
         for(int i=2;i<=n;i++){
             prime[i]=1;
         }
@@ -12,11 +11,12 @@ class Solution {
                 }
             }
         }
+        int cnt=0;
         for(int i=2;i<n;i++){
             if(prime[i]==1){
-            cnt++;
+                cnt++;
             }
         }
         return cnt;
     }
-    }
+}
