@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0345-reverse-vowels-of-a-string) |
 ## String Matching
 |  |
 | ------- |
