@@ -43,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0204-count-primes) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Number Theory
 |  |
 | ------- |
