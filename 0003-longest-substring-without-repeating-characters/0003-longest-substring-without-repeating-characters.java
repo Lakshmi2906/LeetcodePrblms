@@ -3,7 +3,7 @@ import java.util.Map;
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         int start=0,n=s.length();
-        int end=0,ans=0,maxLen=Math.min(s.length(),1);
+        int end=0,maxLen=Math.min(s.length(),1);
         Set<Character> sh=new HashSet<>();
         while(end<n){
             char ch=s.charAt(end);
