@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0073-set-matrix-zeroes) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0349-intersection-of-two-arrays) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0141-linked-list-cycle) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0345-reverse-vowels-of-a-string) |
