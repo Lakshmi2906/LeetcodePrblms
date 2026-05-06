@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0560-subarray-sum-equals-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/2956-find-common-elements-between-two-arrays) |
