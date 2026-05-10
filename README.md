@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0507-perfect-number) |
+| [0556-next-greater-element-iii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0556-next-greater-element-iii) |
 ## Array
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0349-intersection-of-two-arrays) |
+| [0556-next-greater-element-iii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0556-next-greater-element-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0345-reverse-vowels-of-a-string) |
+| [0556-next-greater-element-iii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0556-next-greater-element-iii) |
 ## String Matching
 |  |
 | ------- |
