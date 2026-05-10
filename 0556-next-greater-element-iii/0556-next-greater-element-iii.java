@@ -15,16 +15,16 @@ class Solution {
        long val=Long.parseLong(new String(ch));
        return(val>Integer.MAX_VALUE)?-1:(int) val;
     }
-    public void swap(char[] ch,int i,int j){
-        char temp=ch[i];
-        ch[i]=ch[j];
-        ch[j]=temp;
+    public void swap(char arr[],int i,int j){
+        char temp=arr[i];
+        arr[i]=arr[j];
+        arr[j]=temp;
     }
-    public void reverse(char[] ch,int i,int j){
+    public void reverse(char arr[],int i,int j){
         while(i<j){
-            swap(ch,i,j);
-            i++;
-            j--;
+        swap(arr,i,j);
+        i++;
+        j--;
         }
     }
 }
