@@ -1,10 +1,14 @@
 class Solution {
     public boolean isGood(int[] nums) {
-        Arrays.sort(nums);
+        int[] freq=new int[nums.length+1];
         int n=nums.length;
-        for(int i=0;i<n-1;i++){
-            if(nums[i]!=i+1) return false;
+        for(int num:nums){
+            if(num>=n) return false;
+            freq[num]++;
         }
-        return nums[n-1]== n-1;
+        for(int i=1;i<n-1;i++){
+            if(freq[i]!=1) return false;
+        }
+        return freq[n-1]==2;
     }
 }
