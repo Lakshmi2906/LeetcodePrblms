@@ -14,12 +14,8 @@ class Solution {
                 l++;
                 r--;
             }
-            else if(sum<0){
-                l++;
-            }
-            else{
-                r--;
-            }
+            else if(sum<0) l++;
+            else  r--;
          }
        }
        return fin;
