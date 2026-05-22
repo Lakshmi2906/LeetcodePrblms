@@ -5,8 +5,7 @@ class Solution {
             sum+=nums[r];
             while(sum>=target){
                 ans=Math.min(ans,r-l+1);
-                sum-=nums[l];
-                l++;
+                sum-=nums[l++];
             }
         }
         return ans==Integer.MAX_VALUE ? 0 : ans;
