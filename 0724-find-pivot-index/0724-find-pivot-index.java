@@ -5,8 +5,7 @@ class Solution {
             total+=num;
         }
         for(int i=0;i<n;i++){
-            int rsum=0;
-            rsum += total-lsum-nums[i];
+            int rsum = total-lsum-nums[i];
             if(lsum==rsum){
                 return i;
             }
