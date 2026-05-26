@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0556-next-greater-element-iii) |
 ## Array
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0724-find-pivot-index) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0992-subarrays-with-k-different-integers) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0724-find-pivot-index) |
