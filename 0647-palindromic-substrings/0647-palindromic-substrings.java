@@ -1,23 +1,19 @@
 class Solution {
     public int countSubstrings(String s) {
-        int cnt = 0;
-        for (int i = 0; i < s.length(); i++) {
-            for (int j = i; j < s.length(); j++) {
-                if (isPalindrome(s,i,j)) {
-                    cnt++;
-                }
-            }
+        int cnt=0;
+        for(int i=0;i<s.length();i++){
+            cnt+=expand(s,i,i);
+            cnt+=expand(s,i,i+1);
         }
         return cnt;
     }
-
-    public boolean isPalindrome(String str, int l, int r) {
-        while (l < r) {
-            if (str.charAt(l) != str.charAt(r))
-                return false;
-            l++;
-            r--;
+    public int expand(String str,int l,int r){
+        int lcnt=0;
+        while(l>=0 && r<str.length() && str.charAt(l)==str.charAt(r)){
+            l--;
+            r++;
+            lcnt++;
         }
-        return true;
+        return lcnt;
     }
 }
