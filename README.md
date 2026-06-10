@@ -289,4 +289,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [1729-find-followers-count](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
