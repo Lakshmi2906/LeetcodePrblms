@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0904-fruit-into-baskets) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
