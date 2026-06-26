@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1004-max-consecutive-ones-iii) |
@@ -294,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0596-classes-with-at-least-5-students) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1729-find-followers-count](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1729-find-followers-count) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
