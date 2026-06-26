@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0992-subarrays-with-k-different-integers) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
