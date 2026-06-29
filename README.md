@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0283-move-zeroes) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0414-third-maximum-number) |
 | [2784-check-if-array-is-good](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/2784-check-if-array-is-good) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0992-subarrays-with-k-different-integers) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
