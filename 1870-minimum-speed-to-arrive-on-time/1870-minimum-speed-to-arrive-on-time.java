@@ -1,26 +1,25 @@
 class Solution {
     public int minSpeedOnTime(int[] dist, double hour) {
-        int low = 1;
-        int high = 10000000;
-        int ans = -1;
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            if (canReach(dist, hour, mid)) {
-                ans = mid;
-                high = mid - 1;
-            } else {
-                low = mid + 1;
+        int low=1,high=10000000,ans=-1;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            if(canGo(dist,mid,hour)){
+                ans=mid;
+                high=mid-1;
             }
+            else low=mid+1;
         }
         return ans;
     }
-
-    private boolean canReach(int[] dist, double hour, int speed) {
-        double totalTime = 0.0;
-        for (int i = 0; i < dist.length - 1; i++) {
-            totalTime += Math.ceil((double) dist[i] / speed);
+    public boolean canGo(int[] dist,int k,double hr){
+        double time=0.0;
+        for(int i=0;i<dist.length;i++){
+            double hour=(double) dist[i]/k;
+            if(i!=dist.length-1){
+                time+=Math.ceil(hour);
+            }
+            else time+=hour;
         }
-        totalTime += (double) dist[dist.length - 1] / speed;
-        return totalTime <= hour;
-    }
+        return time<=hr;
+    }    
 }
