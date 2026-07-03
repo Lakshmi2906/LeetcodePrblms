@@ -25,11 +25,12 @@ class Solution {
             if(cap+w > k){
                 days++;
                 cap=w;
+                if(days>d) return false;
             }
             else{
                 cap+=w;
             }
         }
-        return days<=d;
+        return true;
     }
 }
