@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1314-matrix-block-sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Sorting
 |  |
