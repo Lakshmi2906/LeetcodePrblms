@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0992-subarrays-with-k-different-integers) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0414-third-maximum-number) |
+| [0888-fair-candy-swap](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0888-fair-candy-swap) |
 | [2784-check-if-array-is-good](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0567-permutation-in-string) |
+| [0888-fair-candy-swap](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0992-subarrays-with-k-different-integers) |
