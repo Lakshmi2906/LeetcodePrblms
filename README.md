@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0414-third-maximum-number) |
 | [0888-fair-candy-swap](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0888-fair-candy-swap) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0438-find-all-anagrams-in-a-string) |
