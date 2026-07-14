@@ -1,18 +1,18 @@
 class Solution {
     public int trap(int[] height) {
-       int left=0,right=height.length-1,l_max=height[left],r_max=height[right],water=0;
-       while(left<right){
-        if(l_max < r_max){
-            left++;
-            l_max=Math.max(l_max,height[left]);
-            water+= l_max-height[left];
+        int tw=0,n=height.length,l=0,r=n-1,lmax=height[l],rmax=height[r];
+        while(l<r){
+            if(lmax<rmax){
+                l++;
+                lmax=Math.max(lmax,height[l]);
+                tw+=lmax-height[l];
+            }
+            else{
+                r--;
+                rmax=Math.max(rmax,height[r]);
+                tw+=rmax-height[r];
+            }
         }
-        else{
-            right--;
-            r_max=Math.max(r_max,height[right]);
-            water+=r_max-height[right];
-        }
-       }
-       return water;
+        return tw;
     }
 }
