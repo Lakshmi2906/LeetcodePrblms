@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1314-matrix-block-sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1480-running-sum-of-1d-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2784-check-if-array-is-good](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1480-running-sum-of-1d-array) |
 ## Queue
 |  |
 | ------- |
