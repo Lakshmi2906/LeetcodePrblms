@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1480-running-sum-of-1d-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1929-concatenation-of-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1929-concatenation-of-array) |
 | [2784-check-if-array-is-good](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0059-spiral-matrix-ii) |
+| [1929-concatenation-of-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1929-concatenation-of-array) |
 ## Backtracking
 |  |
 | ------- |
