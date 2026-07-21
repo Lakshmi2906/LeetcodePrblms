@@ -1,2 +1,2 @@
-UPDATE Salary
-SET sex = CASE WHEN sex = 'm' THEN 'f' ELSE 'm' END;
+# Write your MySQL query statement below
+update Salary set sex=CASE WHEN sex='m' then 'f' else 'm' end;
