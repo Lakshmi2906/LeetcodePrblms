@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0867-transpose-matrix](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0904-fruit-into-baskets) |
@@ -298,12 +299,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1314-matrix-block-sum) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0059-spiral-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1929-concatenation-of-array) |
 ## Backtracking
 |  |
