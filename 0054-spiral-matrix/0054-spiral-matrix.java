@@ -1,31 +1,28 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-        List<Integer> ls=new ArrayList<>();
-        int cnt=0;
-        int n=matrix.length;
-        int m=matrix[0].length;
-        int rmin=0,cmin=0,rmax=matrix.length-1,cmax=matrix[0].length-1;
-        while(cnt< n*m){
-            for(int i=cmin;i<=cmax && cnt< n*m;i++){
-                ls.add(matrix[rmin][i]);
-                cnt++;
+        List<Integer> ls = new ArrayList<>();
+        int left = 0, right = matrix[0].length - 1, top = 0, bottom = matrix.length - 1;
+        while (left <= right && top <= bottom) {
+            for (int i = left; i <= right; i++) {
+                ls.add(matrix[top][i]);
             }
-            rmin++;
-            for(int j=rmin;j<=rmax && cnt< n*m;j++){
-                ls.add(matrix[j][cmax]);
-                cnt++;
+            top++;
+            for (int i = top; i <= bottom; i++) {
+                ls.add(matrix[i][right]);
             }
-            cmax--;
-            for(int k=cmax;k>=cmin && cnt< n*m;k--){
-                ls.add(matrix[rmax][k]);
-                cnt++;
+            right--;
+            if (top <= bottom) {
+                for (int i = right; i >= left; i--) {
+                    ls.add(matrix[bottom][i]);
+                }
+                bottom--;
             }
-            rmax--;
-            for(int l=rmax;l>=rmin && cnt< n*m;l--){
-                ls.add(matrix[l][cmin]);
-                cnt++;
+            if (left <= right) {
+                for (int i = bottom; i >= top; i--) {
+                    ls.add(matrix[i][left]);
+                }
+                left++;
             }
-            cmin++;
         }
         return ls;
     }
