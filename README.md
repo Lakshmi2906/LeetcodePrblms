@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0556-next-greater-element-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Array
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Number Theory
 |  |
