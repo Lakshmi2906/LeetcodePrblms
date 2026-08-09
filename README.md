@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1314-matrix-block-sum) |
 ## Simulation
