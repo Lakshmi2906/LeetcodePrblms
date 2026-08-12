@@ -1,18 +1,28 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-       int[] ans=new int[10001];
-       Stack<Integer> st=new Stack<>();
-        for(int i=nums2.length-1;i>=0;i--){
-            while(!st.empty() && st.peek()<=nums2[i]){
-                st.pop();
+        
+        int n=nums1.length,k=0;
+        int[] ans=new int[n];
+        ans[n-1]=-1;
+        for(int i=0;i<n;i++){
+            int target=nums1[i];
+            int nextG=-1;
+            boolean found=false;
+            for(int j=0;j<nums2.length;j++){
+                if(nums2[j]==target){
+                    found=true;
+                }
+                if(found && nums2[j]>target){
+                    nextG=nums2[j];
+                    break;
+                }
             }
-            if(st.empty()) ans[nums2[i]]=-1;
-            else ans[nums2[i]]=st.peek();
-            st.push(nums2[i]);
+            ans[i]=nextG;
         }
-        for(int i=0;i<nums1.length;i++){
-            nums1[i]=ans[nums1[i]];
-        }
-        return nums1;
+        return ans;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
