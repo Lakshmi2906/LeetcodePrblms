@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0992-subarrays-with-k-different-integers) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1796-second-largest-digit-in-a-string) |
 | [2784-check-if-array-is-good](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/0680-valid-palindrome-ii) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Lakshmi2906/LeetcodePrblms/tree/master/1796-second-largest-digit-in-a-string) |
 ## String Matching
 |  |
 | ------- |
