@@ -1,6 +1,6 @@
 class Solution {
     public void sortColors(int[] nums) {
-        int left=0,mid=0,right=nums.length-1;
+        int mid=0,left=0,right=nums.length-1;
         while(mid<=right){
             if(nums[mid]==0){
                 nums[mid]=nums[left];
@@ -8,13 +8,19 @@ class Solution {
                 left++;
                 mid++;
             }
-            else if(nums[mid]==1) mid++;
+            else if(nums[mid]==1){
+                nums[mid]=1;
+                mid++;
+            }
             else{
                 nums[mid]=nums[right];
                 nums[right]=2;
                 right--;
             }
         }
-        
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
