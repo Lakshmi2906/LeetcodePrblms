@@ -1,22 +1,20 @@
 import java.util.*;
 class Solution {
     public int countPrimes(int n) {
-      boolean[] arr=new boolean[n+1];
+      boolean[] arr=new boolean[n];
       if(n<=2) return 0;
-      Arrays.fill(arr,true);
-      arr[0]=arr[1]=false;
       for(int i=2;i*i<n;i++){
-        if(arr[i]){
+        if(!arr[i]){
             for(int j=i*i;j<n;j+=i){
-                arr[j]=false;
+                arr[j]=true;
             }
         }
       }
       int cnt=0;
-      for(boolean a:arr){
-        if(a) cnt++;
+      for(int i=2;i<arr.length;i++){
+        if(!arr[i]) cnt++;
       }
-      return cnt-1;
+      return cnt;
     }
 }
 
