@@ -1,31 +1,19 @@
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
-        int n = nums.length;
-        int[] ans = new int[n];
-        Arrays.fill(ans, -1);
-        
-        // Use an array as a custom stack storing indices
-        int[] stack = new int[2 * n];
-        int top = -1;
-
-        for (int i = 0; i < 2 * n; i++) {
-            int num = nums[i % n];
-            
-            // Pop elements smaller than current number and record answer
-            while (top >= 0 && nums[stack[top]] < num) {
-                ans[stack[top--]] = num;
-            }
-            
-            // Only push indices from the first pass
-            if (i < n) {
-                stack[++top] = i;
-            }
+      int n=nums.length;
+      int ans[]=new int[n];
+      Arrays.fill(ans,-1);
+      Stack<Integer> st=new Stack<>();
+      for(int i=2*n-1;i>=0;i--){
+        int num=nums[i%n];
+        while(!st.isEmpty() && st.peek()<=num){
+            st.pop();
         }
-
-        return ans;
+        if(i<n && !st.isEmpty()){
+            ans[i]=st.peek();
+        }
+        st.push(num);
+      }
+      return ans;
     }
 }
-
-// Synced seamlessly with LeetHub Pro
-// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
